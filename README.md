@@ -1,7 +1,11 @@
 # linepoints-search-liff
 
 > A Vue.js project
-
+## Please modify API KEY of Firebase
+path
+```
+/charity_liff/src/main.js
+```
 ## Build Setup
 
 ``` bash
